@@ -1,10 +1,10 @@
-### Olá! Eu sou o Rubismar Carlos ✌️
+### Hello!, i are the Rubismar Carlos ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubismar-carlos-09a912246/)
 
 ![Rubismar Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=rubismar-carlos&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia 
+## Technologies I use in my day 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white%22%3E" />
@@ -15,4 +15,4 @@
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-📬 Como chegar até mim rubensc241@gmail.com
+📬 How to contact me rubensc241@gmail.com
