@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubismar-carlos-09a912246/)
 
 
-![Rubismar Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=rubismar-carlos&show_icons=true&theme=radical)
+![Rubismar Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=rubismar-carlos&show_icons=true&theme=dracula&count_private=true)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubismar-Carlos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 
